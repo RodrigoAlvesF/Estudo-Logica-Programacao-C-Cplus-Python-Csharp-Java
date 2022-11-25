@@ -44,7 +44,7 @@ int main()
 
     }
 
-    cout << "\nQuantidade de negativos = " << contagem;
+    cout << "\nQuantidade de negativos: " << contagem;
 
 
 
