@@ -1,0 +1,8 @@
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Primeiro Codigo\bin\Debug\ConsoleApplication.exe.config
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Primeiro Codigo\bin\Debug\ConsoleApplication.exe
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Primeiro Codigo\bin\Debug\ConsoleApplication.pdb
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Primeiro Codigo\obj\x86\Debug\Primeiro Codigo.csproj.AssemblyReference.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Primeiro Codigo\obj\x86\Debug\Primeiro Codigo.csproj.SuggestedBindingRedirects.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Primeiro Codigo\obj\x86\Debug\Primeiro Codigo.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Primeiro Codigo\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Primeiro Codigo\obj\x86\Debug\ConsoleApplication.pdb
