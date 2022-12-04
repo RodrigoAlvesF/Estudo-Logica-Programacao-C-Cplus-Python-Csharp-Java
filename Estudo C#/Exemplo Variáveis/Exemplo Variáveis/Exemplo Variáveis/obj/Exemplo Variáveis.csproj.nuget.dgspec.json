@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rodri\\OneDrive\\Área de Trabalho\\Lógica programação\\Estudo C#\\Exemplo Variáveis\\Exemplo Variáveis\\Exemplo Variáveis\\Exemplo Variáveis.csproj": {}
+    "C:\\Users\\rodri\\OneDrive\\Área de Trabalho\\Lógica programação\\Estudo C#\\Exemplo Variáveis\\Exemplo variáveis\\Exemplo variáveis\\Exemplo variáveis.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rodri\\OneDrive\\Área de Trabalho\\Lógica programação\\Estudo C#\\Exemplo Variáveis\\Exemplo Variáveis\\Exemplo Variáveis\\Exemplo Variáveis.csproj": {
+    "C:\\Users\\rodri\\OneDrive\\Área de Trabalho\\Lógica programação\\Estudo C#\\Exemplo Variáveis\\Exemplo variáveis\\Exemplo variáveis\\Exemplo variáveis.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rodri\\OneDrive\\Área de Trabalho\\Lógica programação\\Estudo C#\\Exemplo Variáveis\\Exemplo Variáveis\\Exemplo Variáveis\\Exemplo Variáveis.csproj",
-        "projectName": "Exemplo Variáveis",
-        "projectPath": "C:\\Users\\rodri\\OneDrive\\Área de Trabalho\\Lógica programação\\Estudo C#\\Exemplo Variáveis\\Exemplo Variáveis\\Exemplo Variáveis\\Exemplo Variáveis.csproj",
+        "projectUniqueName": "C:\\Users\\rodri\\OneDrive\\Área de Trabalho\\Lógica programação\\Estudo C#\\Exemplo Variáveis\\Exemplo variáveis\\Exemplo variáveis\\Exemplo variáveis.csproj",
+        "projectName": "Exemplo variáveis",
+        "projectPath": "C:\\Users\\rodri\\OneDrive\\Área de Trabalho\\Lógica programação\\Estudo C#\\Exemplo Variáveis\\Exemplo variáveis\\Exemplo variáveis\\Exemplo variáveis.csproj",
         "packagesPath": "C:\\Users\\rodri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rodri\\OneDrive\\Área de Trabalho\\Lógica programação\\Estudo C#\\Exemplo Variáveis\\Exemplo Variáveis\\Exemplo Variáveis\\obj\\",
+        "outputPath": "C:\\Users\\rodri\\OneDrive\\Área de Trabalho\\Lógica programação\\Estudo C#\\Exemplo Variáveis\\Exemplo variáveis\\Exemplo variáveis\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -22,7 +22,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net7.0"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -30,8 +30,8 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -42,8 +42,8 @@
         }
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "imports": [
             "net461",
             "net462",
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

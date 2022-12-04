@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Problema Menor de Três/1.0.0": {
+        "runtime": {
+          "Problema Menor de Três.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Problema Menor de Três/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

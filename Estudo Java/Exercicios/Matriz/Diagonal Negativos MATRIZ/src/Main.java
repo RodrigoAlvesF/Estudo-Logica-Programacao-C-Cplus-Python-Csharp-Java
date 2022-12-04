@@ -8,7 +8,7 @@ public class Main {
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 		
-		int n, i, m, j, quantidadenegativos;
+		int n, i, j, quantidadenegativos;
 
 	    System.out.print("Qual a ordem da matriz? ");
 	    n = sc.nextInt();

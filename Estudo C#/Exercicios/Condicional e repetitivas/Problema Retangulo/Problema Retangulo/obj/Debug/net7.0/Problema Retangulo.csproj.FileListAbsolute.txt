@@ -1,0 +1,15 @@
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Exercicios\Condicional e repetitivas\Problema Retangulo\Problema Retangulo\obj\Debug\net7.0\Problema Retangulo.csproj.AssemblyReference.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Exercicios\Condicional e repetitivas\Problema Retangulo\Problema Retangulo\obj\Debug\net7.0\Problema Retangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Exercicios\Condicional e repetitivas\Problema Retangulo\Problema Retangulo\obj\Debug\net7.0\Problema Retangulo.AssemblyInfoInputs.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Exercicios\Condicional e repetitivas\Problema Retangulo\Problema Retangulo\obj\Debug\net7.0\Problema Retangulo.AssemblyInfo.cs
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Exercicios\Condicional e repetitivas\Problema Retangulo\Problema Retangulo\obj\Debug\net7.0\Problema Retangulo.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Exercicios\Condicional e repetitivas\Problema Retangulo\Problema Retangulo\bin\Debug\net7.0\Problema Retangulo.exe
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Exercicios\Condicional e repetitivas\Problema Retangulo\Problema Retangulo\bin\Debug\net7.0\Problema Retangulo.deps.json
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Exercicios\Condicional e repetitivas\Problema Retangulo\Problema Retangulo\bin\Debug\net7.0\Problema Retangulo.runtimeconfig.json
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Exercicios\Condicional e repetitivas\Problema Retangulo\Problema Retangulo\bin\Debug\net7.0\Problema Retangulo.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Exercicios\Condicional e repetitivas\Problema Retangulo\Problema Retangulo\bin\Debug\net7.0\Problema Retangulo.pdb
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Exercicios\Condicional e repetitivas\Problema Retangulo\Problema Retangulo\obj\Debug\net7.0\Problema Retangulo.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Exercicios\Condicional e repetitivas\Problema Retangulo\Problema Retangulo\obj\Debug\net7.0\refint\Problema Retangulo.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Exercicios\Condicional e repetitivas\Problema Retangulo\Problema Retangulo\obj\Debug\net7.0\Problema Retangulo.pdb
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Exercicios\Condicional e repetitivas\Problema Retangulo\Problema Retangulo\obj\Debug\net7.0\Problema Retangulo.genruntimeconfig.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Exercicios\Condicional e repetitivas\Problema Retangulo\Problema Retangulo\obj\Debug\net7.0\ref\Problema Retangulo.dll

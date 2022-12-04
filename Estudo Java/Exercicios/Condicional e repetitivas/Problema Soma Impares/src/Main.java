@@ -4,36 +4,36 @@ public class Main {
 
 	public static void main(String[] args) {
 		
-		Scanner sc = new Scanner (System.in);
-
-		int i, troca, x, y, soma;
-		
-		System.out.println("Digite dois números: ");
-		x = sc.nextInt();
-		y = sc.nextInt();
-		
-		if (x > y) {
+		try (Scanner sc = new Scanner (System.in)) {
+			int i, troca, x, y, soma;
 			
-			troca = x;
-			x = y;
-			y = troca;
+			System.out.println("Digite dois números: ");
+			x = sc.nextInt();
+			y = sc.nextInt();
 			
-		}
-		
-		soma = 0;
+			if (x > y) {
 				
-		for (i = x+1; i < y; i++){
-		
-		if (i % 2 != 0) {
+				troca = x;
+				x = y;
+				y = troca;
+				
+			}
 			
-			soma = soma + i;
+			soma = 0;
+					
+			for (i = x+1; i < y; i++){
 			
+			if (i % 2 != 0) {
+				
+				soma = soma + i;
+				
+			}
+			}
+			
+			System.out.print("Soma dos impares =  " + soma);
+			
+			sc.close();
 		}
-		}
-		
-		System.out.print("Soma dos impares =  " + soma);
-		
-		sc.close();
 
 	}
 

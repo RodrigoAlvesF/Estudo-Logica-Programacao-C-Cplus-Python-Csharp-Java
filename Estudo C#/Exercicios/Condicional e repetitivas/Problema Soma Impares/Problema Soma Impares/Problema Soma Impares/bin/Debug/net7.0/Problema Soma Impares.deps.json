@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Problema Soma Impares/1.0.0": {
+        "runtime": {
+          "Problema Soma Impares.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Problema Soma Impares/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

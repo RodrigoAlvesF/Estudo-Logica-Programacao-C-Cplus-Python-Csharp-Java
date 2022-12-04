@@ -1,0 +1,15 @@
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Exemplo Variáveis\Exemplo variáveis\Exemplo variáveis\bin\Debug\net6.0\Exemplo variáveis.exe
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Exemplo Variáveis\Exemplo variáveis\Exemplo variáveis\bin\Debug\net6.0\Exemplo variáveis.deps.json
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Exemplo Variáveis\Exemplo variáveis\Exemplo variáveis\bin\Debug\net6.0\Exemplo variáveis.runtimeconfig.json
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Exemplo Variáveis\Exemplo variáveis\Exemplo variáveis\bin\Debug\net6.0\Exemplo variáveis.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Exemplo Variáveis\Exemplo variáveis\Exemplo variáveis\bin\Debug\net6.0\Exemplo variáveis.pdb
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Exemplo Variáveis\Exemplo variáveis\Exemplo variáveis\obj\Debug\net6.0\Exemplo variáveis.csproj.AssemblyReference.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Exemplo Variáveis\Exemplo variáveis\Exemplo variáveis\obj\Debug\net6.0\Exemplo variáveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Exemplo Variáveis\Exemplo variáveis\Exemplo variáveis\obj\Debug\net6.0\Exemplo variáveis.AssemblyInfoInputs.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Exemplo Variáveis\Exemplo variáveis\Exemplo variáveis\obj\Debug\net6.0\Exemplo variáveis.AssemblyInfo.cs
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Exemplo Variáveis\Exemplo variáveis\Exemplo variáveis\obj\Debug\net6.0\Exemplo variáveis.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Exemplo Variáveis\Exemplo variáveis\Exemplo variáveis\obj\Debug\net6.0\Exemplo variáveis.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Exemplo Variáveis\Exemplo variáveis\Exemplo variáveis\obj\Debug\net6.0\refint\Exemplo variáveis.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Exemplo Variáveis\Exemplo variáveis\Exemplo variáveis\obj\Debug\net6.0\Exemplo variáveis.pdb
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Exemplo Variáveis\Exemplo variáveis\Exemplo variáveis\obj\Debug\net6.0\Exemplo variáveis.genruntimeconfig.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Exemplo Variáveis\Exemplo variáveis\Exemplo variáveis\obj\Debug\net6.0\ref\Exemplo variáveis.dll

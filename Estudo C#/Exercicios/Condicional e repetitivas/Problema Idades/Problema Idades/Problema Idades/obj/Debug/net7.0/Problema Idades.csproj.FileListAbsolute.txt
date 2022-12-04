@@ -1,0 +1,15 @@
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Exercicios\Condicional e repetitivas\Problema Idades\Problema Idades\Problema Idades\bin\Debug\net7.0\Problema Idades.exe
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Exercicios\Condicional e repetitivas\Problema Idades\Problema Idades\Problema Idades\bin\Debug\net7.0\Problema Idades.deps.json
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Exercicios\Condicional e repetitivas\Problema Idades\Problema Idades\Problema Idades\bin\Debug\net7.0\Problema Idades.runtimeconfig.json
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Exercicios\Condicional e repetitivas\Problema Idades\Problema Idades\Problema Idades\bin\Debug\net7.0\Problema Idades.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Exercicios\Condicional e repetitivas\Problema Idades\Problema Idades\Problema Idades\bin\Debug\net7.0\Problema Idades.pdb
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Exercicios\Condicional e repetitivas\Problema Idades\Problema Idades\Problema Idades\obj\Debug\net7.0\Problema Idades.csproj.AssemblyReference.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Exercicios\Condicional e repetitivas\Problema Idades\Problema Idades\Problema Idades\obj\Debug\net7.0\Problema Idades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Exercicios\Condicional e repetitivas\Problema Idades\Problema Idades\Problema Idades\obj\Debug\net7.0\Problema Idades.AssemblyInfoInputs.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Exercicios\Condicional e repetitivas\Problema Idades\Problema Idades\Problema Idades\obj\Debug\net7.0\Problema Idades.AssemblyInfo.cs
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Exercicios\Condicional e repetitivas\Problema Idades\Problema Idades\Problema Idades\obj\Debug\net7.0\Problema Idades.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Exercicios\Condicional e repetitivas\Problema Idades\Problema Idades\Problema Idades\obj\Debug\net7.0\Problema Idades.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Exercicios\Condicional e repetitivas\Problema Idades\Problema Idades\Problema Idades\obj\Debug\net7.0\refint\Problema Idades.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Exercicios\Condicional e repetitivas\Problema Idades\Problema Idades\Problema Idades\obj\Debug\net7.0\Problema Idades.pdb
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Exercicios\Condicional e repetitivas\Problema Idades\Problema Idades\Problema Idades\obj\Debug\net7.0\Problema Idades.genruntimeconfig.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Exercicios\Condicional e repetitivas\Problema Idades\Problema Idades\Problema Idades\obj\Debug\net7.0\ref\Problema Idades.dll

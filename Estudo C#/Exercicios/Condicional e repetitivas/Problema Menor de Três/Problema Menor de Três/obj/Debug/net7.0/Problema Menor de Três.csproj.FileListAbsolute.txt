@@ -1,0 +1,15 @@
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Exercicios\Condicional e repetitivas\Problema Menor de Três\Problema Menor de Três\bin\Debug\net7.0\Problema Menor de Três.exe
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Exercicios\Condicional e repetitivas\Problema Menor de Três\Problema Menor de Três\bin\Debug\net7.0\Problema Menor de Três.deps.json
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Exercicios\Condicional e repetitivas\Problema Menor de Três\Problema Menor de Três\bin\Debug\net7.0\Problema Menor de Três.runtimeconfig.json
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Exercicios\Condicional e repetitivas\Problema Menor de Três\Problema Menor de Três\bin\Debug\net7.0\Problema Menor de Três.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Exercicios\Condicional e repetitivas\Problema Menor de Três\Problema Menor de Três\bin\Debug\net7.0\Problema Menor de Três.pdb
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Exercicios\Condicional e repetitivas\Problema Menor de Três\Problema Menor de Três\obj\Debug\net7.0\Problema Menor de Três.csproj.AssemblyReference.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Exercicios\Condicional e repetitivas\Problema Menor de Três\Problema Menor de Três\obj\Debug\net7.0\Problema Menor de Três.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Exercicios\Condicional e repetitivas\Problema Menor de Três\Problema Menor de Três\obj\Debug\net7.0\Problema Menor de Três.AssemblyInfoInputs.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Exercicios\Condicional e repetitivas\Problema Menor de Três\Problema Menor de Três\obj\Debug\net7.0\Problema Menor de Três.AssemblyInfo.cs
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Exercicios\Condicional e repetitivas\Problema Menor de Três\Problema Menor de Três\obj\Debug\net7.0\Problema Menor de Três.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Exercicios\Condicional e repetitivas\Problema Menor de Três\Problema Menor de Três\obj\Debug\net7.0\Problema Menor de Três.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Exercicios\Condicional e repetitivas\Problema Menor de Três\Problema Menor de Três\obj\Debug\net7.0\refint\Problema Menor de Três.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Exercicios\Condicional e repetitivas\Problema Menor de Três\Problema Menor de Três\obj\Debug\net7.0\Problema Menor de Três.pdb
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Exercicios\Condicional e repetitivas\Problema Menor de Três\Problema Menor de Três\obj\Debug\net7.0\Problema Menor de Três.genruntimeconfig.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Exercicios\Condicional e repetitivas\Problema Menor de Três\Problema Menor de Três\obj\Debug\net7.0\ref\Problema Menor de Três.dll
