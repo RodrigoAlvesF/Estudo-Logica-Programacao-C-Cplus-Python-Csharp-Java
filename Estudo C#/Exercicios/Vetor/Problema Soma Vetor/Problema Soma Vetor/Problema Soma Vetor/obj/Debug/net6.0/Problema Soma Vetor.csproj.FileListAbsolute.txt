@@ -1,0 +1,15 @@
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Exercicios\Vetor\Problema Soma Vetor\Problema Soma Vetor\Problema Soma Vetor\bin\Debug\net6.0\Problema Soma Vetor.exe
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Exercicios\Vetor\Problema Soma Vetor\Problema Soma Vetor\Problema Soma Vetor\bin\Debug\net6.0\Problema Soma Vetor.deps.json
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Exercicios\Vetor\Problema Soma Vetor\Problema Soma Vetor\Problema Soma Vetor\bin\Debug\net6.0\Problema Soma Vetor.runtimeconfig.json
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Exercicios\Vetor\Problema Soma Vetor\Problema Soma Vetor\Problema Soma Vetor\bin\Debug\net6.0\Problema Soma Vetor.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Exercicios\Vetor\Problema Soma Vetor\Problema Soma Vetor\Problema Soma Vetor\bin\Debug\net6.0\Problema Soma Vetor.pdb
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Exercicios\Vetor\Problema Soma Vetor\Problema Soma Vetor\Problema Soma Vetor\obj\Debug\net6.0\Problema Soma Vetor.csproj.AssemblyReference.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Exercicios\Vetor\Problema Soma Vetor\Problema Soma Vetor\Problema Soma Vetor\obj\Debug\net6.0\Problema Soma Vetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Exercicios\Vetor\Problema Soma Vetor\Problema Soma Vetor\Problema Soma Vetor\obj\Debug\net6.0\Problema Soma Vetor.AssemblyInfoInputs.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Exercicios\Vetor\Problema Soma Vetor\Problema Soma Vetor\Problema Soma Vetor\obj\Debug\net6.0\Problema Soma Vetor.AssemblyInfo.cs
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Exercicios\Vetor\Problema Soma Vetor\Problema Soma Vetor\Problema Soma Vetor\obj\Debug\net6.0\Problema Soma Vetor.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Exercicios\Vetor\Problema Soma Vetor\Problema Soma Vetor\Problema Soma Vetor\obj\Debug\net6.0\Problema Soma Vetor.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Exercicios\Vetor\Problema Soma Vetor\Problema Soma Vetor\Problema Soma Vetor\obj\Debug\net6.0\refint\Problema Soma Vetor.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Exercicios\Vetor\Problema Soma Vetor\Problema Soma Vetor\Problema Soma Vetor\obj\Debug\net6.0\Problema Soma Vetor.pdb
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Exercicios\Vetor\Problema Soma Vetor\Problema Soma Vetor\Problema Soma Vetor\obj\Debug\net6.0\Problema Soma Vetor.genruntimeconfig.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\Lógica programação\Estudo C#\Exercicios\Vetor\Problema Soma Vetor\Problema Soma Vetor\Problema Soma Vetor\obj\Debug\net6.0\ref\Problema Soma Vetor.dll
