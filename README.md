@@ -1,5 +1,5 @@
 # Estudo-Logica-Programacao-C
-Estudando logica da programação na plataforma Udemy
+Estudo de lógica da programação na plataforma Udemy
 
 Aqui se encontra todo meu estudo através da plataforma Udemy sobre lógica de programação.
 
